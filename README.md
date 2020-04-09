@@ -4,5 +4,6 @@
 **python基础语法为学习for change的笔记**
 **scipy里面是求导计算**
 
+**学会了ffmpeg **
 
 
