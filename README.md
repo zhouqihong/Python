@@ -46,3 +46,5 @@
 2020年0503  **正则提取摘要**  知识点：利用正则表达式将论文分隔成几大块，然后存储为csv文件格式.re.findall(pattern,content,flags=re.DOTALL)，三个参数,pattern为匹配的公式，content为匹配的内容，flags = re.DOTALL为特殊格式
 
 2020年0504  **向量可视化**  知识点：运用训练好的word2vec结果，使用tsen工具进行可视化
+
+2020年0508 **朴素贝叶斯垃圾邮件分类** 知识点：朴素贝叶斯分类函数
