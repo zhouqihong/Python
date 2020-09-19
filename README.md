@@ -56,3 +56,5 @@
 2020年912 **get_papers_to_excel.py** 是获取万方的论文摘要的爬虫，知识点：获取id,to excel文件，to json文件
 
 2020年912 **get_thesis_abstract.py**获取万方学位论文的摘要，知识点：获取it,函数的定义，循环
+
+2020年9月19 **New_MI的计算**
